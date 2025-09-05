@@ -1,6 +1,6 @@
 # 💰 Interactive Expense Tracker
 
-A sleek, responsive, and easy-to-use web application for tracking your personal income and expenses. Built with HTML, CSS, and JavaScript, this project helps you manage your finances visually and interactively — with support for local storage so your data persists across sessions.
+A sleek, responsive, and easy-to-use web application for tracking your personal income and expenses. Built with HTML, CSS, and JavaScript, this project helps you manage your finances visually and interactively, with support for local storage so your data persists across sessions.
 
 ## 🚀 Features
 
