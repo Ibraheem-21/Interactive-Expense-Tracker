@@ -2,6 +2,9 @@
 
 A sleek, responsive, and easy-to-use web application for tracking your personal income and expenses. Built with HTML, CSS, and JavaScript, this project helps you manage your finances visually and interactively, with support for local storage so your data persists across sessions.
 
+<img width="1866" height="806" alt="image" src="https://github.com/user-attachments/assets/18f16ec9-65b2-4d3b-b602-09c1b4c1eb93" />
+
+
 ## 🚀 Features
 
 * Add income and expense transactions
